@@ -1,0 +1,66 @@
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:716 - Starting DNS Lookup Tool v2.0.1
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:427 - Starting comprehensive DNS lookup for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:283 - Resolved 1 A records for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:302 - Resolved 1 AAAA records for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:321 - Resolved 0 CNAME records for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:341 - Resolved 1 MX records for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:360 - Resolved 4 NS records for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:379 - Resolved 13 TXT records for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:444 - Completed DNS lookup for google.com
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:486 - Results saved to: outputs\google.com_all_20260330_180535.txt
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:813 - Results saved to outputs\google.com_all_20260330_180535.txt
+2026-03-30 18:05:35 - __main__ - INFO - dns_lookup.py:815 - DNS lookup completed successfully
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:716 - Starting DNS Lookup Tool v2.0.1
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:427 - Starting comprehensive DNS lookup for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:283 - Resolved 1 A records for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:302 - Resolved 1 AAAA records for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:321 - Resolved 0 CNAME records for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:341 - Resolved 1 MX records for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:360 - Resolved 4 NS records for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:379 - Resolved 13 TXT records for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:444 - Completed DNS lookup for google.com
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:486 - Results saved to: outputs\google.com_all_20260330_180636.txt
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:813 - Results saved to outputs\google.com_all_20260330_180636.txt
+2026-03-30 18:06:36 - __main__ - INFO - dns_lookup.py:815 - DNS lookup completed successfully
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:716 - Starting DNS Lookup Tool v2.0.1
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:717 - Command line arguments: Namespace(target='google.com', type='ALL', reverse=False, json=False, verbose=True, timeout=5, nameservers=None, output_dir='outputs', no_save=False)
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:427 - Starting comprehensive DNS lookup for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:248 - Executing A query for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:283 - Resolved 1 A records for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:248 - Executing AAAA query for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:302 - Resolved 1 AAAA records for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:248 - Executing CNAME query for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:256 - No CNAME records found for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:321 - Resolved 0 CNAME records for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:248 - Executing MX query for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:341 - Resolved 1 MX records for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:248 - Executing NS query for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:360 - Resolved 4 NS records for google.com
+2026-03-30 18:06:49 - __main__ - DEBUG - dns_lookup.py:248 - Executing TXT query for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:379 - Resolved 13 TXT records for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:444 - Completed DNS lookup for google.com
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:486 - Results saved to: outputs\google.com_all_20260330_180649.txt
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:813 - Results saved to outputs\google.com_all_20260330_180649.txt
+2026-03-30 18:06:49 - __main__ - INFO - dns_lookup.py:815 - DNS lookup completed successfully
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:716 - Starting DNS Lookup Tool v2.0.1
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:427 - Starting comprehensive DNS lookup for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:283 - Resolved 1 A records for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:302 - Resolved 1 AAAA records for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:321 - Resolved 0 CNAME records for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:341 - Resolved 1 MX records for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:360 - Resolved 4 NS records for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:379 - Resolved 13 TXT records for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:444 - Completed DNS lookup for google.com
+2026-03-30 18:07:11 - __main__ - INFO - dns_lookup.py:815 - DNS lookup completed successfully
+2026-03-30 18:07:22 - __main__ - INFO - dns_lookup.py:716 - Starting DNS Lookup Tool v2.0.1
+2026-03-30 18:07:22 - __main__ - INFO - dns_lookup.py:427 - Starting comprehensive DNS lookup for slow-site.com
+2026-03-30 18:07:22 - __main__ - WARNING - dns_lookup.py:286 - A record resolution failed for slow-site.com: Domain 'slow-site.com' does not exist
+2026-03-30 18:07:22 - __main__ - WARNING - dns_lookup.py:305 - AAAA record resolution failed for slow-site.com: Domain 'slow-site.com' does not exist
+2026-03-30 18:07:22 - __main__ - WARNING - dns_lookup.py:324 - CNAME record resolution failed for slow-site.com: Domain 'slow-site.com' does not exist
+2026-03-30 18:07:22 - __main__ - WARNING - dns_lookup.py:344 - MX record resolution failed for slow-site.com: Domain 'slow-site.com' does not exist
+2026-03-30 18:07:22 - __main__ - WARNING - dns_lookup.py:363 - NS record resolution failed for slow-site.com: Domain 'slow-site.com' does not exist
+2026-03-30 18:07:22 - __main__ - WARNING - dns_lookup.py:382 - TXT record resolution failed for slow-site.com: Domain 'slow-site.com' does not exist
+2026-03-30 18:07:22 - __main__ - INFO - dns_lookup.py:444 - Completed DNS lookup for slow-site.com
+2026-03-30 18:07:22 - __main__ - INFO - dns_lookup.py:486 - Results saved to: outputs\slow-site.com_all_20260330_180722.txt
+2026-03-30 18:07:22 - __main__ - INFO - dns_lookup.py:813 - Results saved to outputs\slow-site.com_all_20260330_180722.txt
+2026-03-30 18:07:22 - __main__ - INFO - dns_lookup.py:815 - DNS lookup completed successfully

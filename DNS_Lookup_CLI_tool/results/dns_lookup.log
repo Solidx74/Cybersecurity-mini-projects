@@ -1,0 +1,12 @@
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:716 - Starting DNS Lookup Tool v2.0.1
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:427 - Starting comprehensive DNS lookup for google.com
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:283 - Resolved 1 A records for google.com
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:302 - Resolved 1 AAAA records for google.com
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:321 - Resolved 0 CNAME records for google.com
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:341 - Resolved 1 MX records for google.com
+2026-03-30 18:07:00 - __main__ - INFO - dns_lookup.py:360 - Resolved 4 NS records for google.com
+2026-03-30 18:07:01 - __main__ - INFO - dns_lookup.py:379 - Resolved 13 TXT records for google.com
+2026-03-30 18:07:01 - __main__ - INFO - dns_lookup.py:444 - Completed DNS lookup for google.com
+2026-03-30 18:07:01 - __main__ - INFO - dns_lookup.py:486 - Results saved to: results\google.com_all_20260330_180701.txt
+2026-03-30 18:07:01 - __main__ - INFO - dns_lookup.py:813 - Results saved to results\google.com_all_20260330_180701.txt
+2026-03-30 18:07:01 - __main__ - INFO - dns_lookup.py:815 - DNS lookup completed successfully

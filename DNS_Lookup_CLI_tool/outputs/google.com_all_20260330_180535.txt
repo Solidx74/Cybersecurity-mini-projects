@@ -1,0 +1,30 @@
+======================================================================
+DNS Lookup Results
+Target: google.com
+Timestamp: 2026-03-30T18:05:35.360942
+======================================================================
+
+🌐 A Records (IPv4):
+  • 142.250.193.14
+
+🟢 AAAA Records (IPv6):
+  • 2404:6800:4002:804::200e
+
+📧 MX Records (Mail Exchange):
+  • Priority 10: smtp.google.com.
+
+🗄️ NS Records (Name Servers):
+  • ns3.google.com.
+  • ns4.google.com.
+  • ns1.google.com.
+  • ns2.google.com.
+
+📝 TXT Records:
+  • "globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8="
+  • "onetrust-domain-verification=0d477fe608074e6f9c12bca7826035cc"
+  • "docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"
+  • "google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ"
+  • "cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b"
+  ... and 8 more
+
+======================================================================
