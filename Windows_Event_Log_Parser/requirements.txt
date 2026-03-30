@@ -1,0 +1,12 @@
+# Core dependencies for Windows Event Log parsing
+python-evtx==0.7.0
+
+# Console color output for better readability
+colorama==0.4.6
+
+# Optional: For additional JSON handling capabilities
+# Not required for core functionality
+# simplejson==3.19.2
+
+# Optional: For progress bars when processing large files
+# tqdm==4.66.0
